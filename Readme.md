@@ -1,5 +1,5 @@
-**09.00-09.30**| **Welcome and Poster setup** | ''
-------------|---------------------------|---------------------------------
+**09.00-09.30**| **Welcome and Poster setup** | '' | 
+------------|---------------------------|-----------------------|----------
 09.30-10.15 | Gerrit Groenhof      | QED/MM molecular dynamics simulations of polaritonic chemistry
 10.15-10.40 | Paul Bauer           | BQCP - Calculating quantum corrections to free energy profiles | [abstract](abstracts/Bauer.md)
 **10.40-11.00** | **Break** |
