@@ -8,7 +8,7 @@
 11.50-12.00 | Samuel Floris        | Research School in Medical Bioinformatics |
 12.00-12.20 | Erik Lindahl         | A SciLifeLab Research Community Program for Molecular Modeling | [abstract](abstracts/Lindahl.md)
 **12.20-14.00** | **Lunch break and posters** | | 
-  14.00-14.30 | Annie Westerlund     | Analyzing minimum free energy pathways in GPCR activation | [abstract](abstracts/Westerlund.md)
+14.00-14.30 | Annie Westerlund     | Inference of Calmodulin's Ca2+-Dependent Free Energy Landscapes | [abstract](abstracts/Westerlund.md)
 14.30-14.50 | Ferran Padros        | DFT study of Reaction Mechanism of Benzoylformate Decarboxylase | [abstract](abstracts/Padros.md)
 14.50-15.10 | Masoud Kazemi        | Theoretical Study of the Mycobacterium smegmatis Acyl Transferase | [abstract](abstracts/Kazemi.md)
 15.10-15.30 | Fredrik Grote        | Modelling hydrothermal carbonization | [abstract](abstracts/Grote.md)
