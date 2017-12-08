@@ -1,0 +1,1 @@
+I will leave the normal research presentations to the students doing the primary work, but if we have time we might want to talk about the Science for Life Laboratory Research Community Programs that the board might announce, and whether we should think of applying together with the Uppsala groups.
