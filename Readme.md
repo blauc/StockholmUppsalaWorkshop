@@ -1,6 +1,6 @@
 **09.00**| **Welcome and Poster setup** | '' | ''
 ------------|---------------------------|-----------------------|----------
-08.20-..... | Bus from BMCUppsala  | The bus will leave from BMC/Dag Hammarskölds väg | 
+08.15 | Bus from BMCUppsala  | A labelled bus will leave from BMC/Dag Hammarskölds väg | 
 09.30 | Gerrit Groenhof      | QED/MM molecular dynamics simulations of polaritonic chemistry |
 10.15 | Paul Bauer           | BQCP - Calculating quantum corrections to free energy profiles | [abstract](abstracts/Bauer.md)
 **10.40** | **Break** | | 
